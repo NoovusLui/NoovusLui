@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![NoovusLui's github stats](https://github-readme-stats.vercel.app/api?username=NoovusLui&count_private=true&show_icons=true&theme=github_dark)](https://github.com/NoovusLui)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoovusLui&hide=php)](https://github.com/NoovusLui)
+
 <!--
 novo teste
 TESTE GIT :
