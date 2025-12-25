@@ -4,6 +4,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoovusLui&hide=php)](https://github.com/NoovusLui)
 
+```txt
+TypeScript   24 hrs 56 mins  ███████████████████████▓░   95.13 %
+JSON         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+CSS          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Other        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+SCSS         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+```
 <!--
 novo teste
 TESTE GIT :
